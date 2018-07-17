@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cabecalho">Digite um número</string>
+    <string name="botao">Jogar!</string>
+    <string name="Número" />
+    <string name="numero">Número</string>
+</resources>
